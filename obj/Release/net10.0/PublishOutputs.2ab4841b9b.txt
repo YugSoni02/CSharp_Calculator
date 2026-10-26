@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\Yug\Projects\C#\New folder\calculator\bin\Release\net10.0\publish\calculator.exe
+C:\Users\admin\Desktop\Yug\Projects\C#\New folder\calculator\bin\Release\net10.0\publish\calculator.dll
+C:\Users\admin\Desktop\Yug\Projects\C#\New folder\calculator\bin\Release\net10.0\publish\calculator.deps.json
+C:\Users\admin\Desktop\Yug\Projects\C#\New folder\calculator\bin\Release\net10.0\publish\calculator.runtimeconfig.json
+C:\Users\admin\Desktop\Yug\Projects\C#\New folder\calculator\bin\Release\net10.0\publish\calculator.pdb
