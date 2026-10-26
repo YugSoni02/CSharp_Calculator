@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\admin\\Desktop\\Yug\\Projects\\C#\\New folder\\calculator\\calculator.csproj": {}
+    "C:\\Users\\admin\\Desktop\\Yug\\Projects\\C#\\New folder\\calculator\\calculator.csproj": {}
   },
   "projects": {
-    "c:\\Users\\admin\\Desktop\\Yug\\Projects\\C#\\New folder\\calculator\\calculator.csproj": {
+    "C:\\Users\\admin\\Desktop\\Yug\\Projects\\C#\\New folder\\calculator\\calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\admin\\Desktop\\Yug\\Projects\\C#\\New folder\\calculator\\calculator.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Yug\\Projects\\C#\\New folder\\calculator\\calculator.csproj",
         "projectName": "calculator",
-        "projectPath": "c:\\Users\\admin\\Desktop\\Yug\\Projects\\C#\\New folder\\calculator\\calculator.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\Yug\\Projects\\C#\\New folder\\calculator\\calculator.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\admin\\Desktop\\Yug\\Projects\\C#\\New folder\\calculator\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\Yug\\Projects\\C#\\New folder\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
